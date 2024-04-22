@@ -1,0 +1,63 @@
+Vendor ID,1, Order 7937 has been placed by Alice on 2023-12-10 01:09:12.
+Vendor ID,2, Order 9220 has been placed by Alice on 2023-12-10 01:09:41.
+Vendor ID,3, Order 2494 has been placed by Alice on 2023-12-10 01:10:02.
+Vendor ID,1, Order 7937 has been paid by Alice on 2023-12-10 01:10:09.
+Vendor ID,2, Order 9220 has been paid by Alice on 2023-12-10 01:10:11.
+Vendor ID,3, Order 2494 has been paid by Alice on 2023-12-10 01:10:13.
+Vendor ID,1, Order 7937 has been accepted by Pizza Palace on 2023-12-10 01:11:02.
+Vendor ID,1, Order 7937  is ready to collect by Pizza Palace on 2023-12-10 01:11:18.
+Vendor ID,1, Order 5833 has been placed by Alice on 2023-12-11 00:04:23.
+Vendor ID,1, Order 3008 has been reordered by Alice on 2023-12-11 00:04:39.
+Vendor ID,1, Order 5833 has been paid by Alice on 2023-12-11 00:04:51.
+Vendor ID,1, Order 3008 has been paid by Alice on 2023-12-11 00:04:53.
+Vendor ID,1, Order 5833 has been accepted by Pizza Palace on 2023-12-11 00:05:19.
+Vendor ID,1, Order 3008 has been rejected by Pizza Palace on 2023-12-11 00:05:26.
+Vendor ID,1, Order 5833  is ready to collect by Pizza Palace on 2023-12-11 00:05:32.
+Vendor ID,1, Order 3931 has been reordered by Alice on 2023-12-11 00:23:28.
+Vendor ID,1, Order 3931 has been paid by Alice on 2023-12-11 00:23:44.
+Vendor ID,1, Order 1607 has been placed by Alice on 2023-12-11 00:25:24.
+Vendor ID,1, Order 1607 has been paid by Alice on 2023-12-11 00:25:44.
+Vendor ID,1, Order 3749 has been reordered by Alice on 2023-12-11 00:27:20.
+Vendor ID,1, Order 9703 has been reordered by Alice on 2023-12-11 00:31:30.
+Vendor ID,1, Order 3749 has been paid by Alice on 2023-12-11 00:32:03.
+Vendor ID,1, Order 9703 has been paid by Alice on 2023-12-11 00:32:05.
+Vendor ID,1, Order 3749 has been accepted by Pizza Palace on 2023-12-11 00:32:53.
+Vendor ID,1, Order 9703 has been rejected by Pizza Palace on 2023-12-11 00:34:08.
+Vendor ID,1, Order 1664 has been reordered by Alice on 2023-12-11 00:34:59.
+Vendor ID,1, Order 5330 has been reordered by Alice on 2023-12-11 00:35:16.
+Vendor ID,1, Order 7156 has been placed by Alice on 2023-12-11 00:36:50.
+Vendor ID,1, Order 5623 has been reordered by Alice on 2023-12-11 00:37:11.
+Vendor ID,1, Order 5623 has been paid by Alice on 2023-12-11 00:37:43.
+Vendor ID,1, Order 7156 has been paid by Alice on 2023-12-11 00:37:47.
+Vendor ID,1, Order 7839 has been placed by Alice on 2023-12-11 00:41:25.
+Vendor ID,1, Order 7723 has been reordered by Alice on 2023-12-11 00:41:38.
+Vendor ID,1, Order 7839 has been paid by Alice on 2023-12-11 00:41:49.
+Vendor ID,1, Order 7723 has been paid by Alice on 2023-12-11 00:41:52.
+Vendor ID,1, Order 7723 has been rejected by Pizza Palace on 2023-12-11 00:44:10.
+Vendor ID,1, Order 5747 has been reordered by Alice on 2023-12-11 00:51:01.
+Vendor ID,1, Order 775 has been reordered by Alice on 2023-12-11 00:57:15.
+Vendor ID,1, Order 179 has been reordered by Alice on 2023-12-11 01:03:47.
+Vendor ID,1, Order 8009 has been reordered by Alice on 2023-12-11 01:10:33.
+Vendor ID,1, Order 3508 has been reordered by Alice on 2023-12-11 01:13:45.
+Vendor ID,1, Order 7399 has been reordered by Alice on 2023-12-11 01:15:22.
+Vendor ID,1, Order 8572 has been reordered by Alice on 2023-12-11 01:22:32.
+Vendor ID,1, Order 4647 has been reordered by Alice on 2023-12-11 01:23:48.
+Vendor ID,1, Order 4955 has been placed by Alice on 2023-12-11 01:28:19.
+Vendor ID,1, Order 803 has been placed by Alice on 2023-12-11 01:28:45.
+Vendor ID,1, Order 4955 has been paid by Alice on 2023-12-11 01:29:01.
+Vendor ID,1, Order 803 has been paid by Alice on 2023-12-11 01:29:09.
+Vendor ID,1, Order 803 has been rejected by Pizza Palace on 2023-12-11 01:29:53.
+Vendor ID,1, Order 4955 has been accepted by Pizza Palace on 2023-12-11 01:30:03.
+Vendor ID,1, Order 4955  is ready to collect by Pizza Palace on 2023-12-11 01:30:46.
+Vendor ID,1, Order 2134 has been reordered by Alice on 2023-12-11 01:33:47.
+Vendor ID,1, Order 2134 has been paid by Alice on 2023-12-11 01:34:10.
+Vendor ID,1, Order 2134 has been accepted by Pizza Palace on 2023-12-11 01:36:37.
+Vendor ID,1, Order 2134  is ready to collect by Pizza Palace on 2023-12-11 01:36:46.
+Vendor ID,1, Order 527 has been placed by Alice on 2023-12-11 15:19:25.
+Vendor ID,1, Order 527 has been paid by Alice on 2023-12-11 15:19:38.
+Vendor ID,1, Order 527 has been accepted by Pizza Palace on 2023-12-11 15:21:14.
+Vendor ID,1, Order 527  is ready to collect by Pizza Palace on 2023-12-11 15:22:24.
+Vendor ID,1, Order 549 has been reordered by Alice on 2023-12-11 17:02:04.
+Vendor ID,1, Order 549 has been paid by Alice on 2023-12-11 17:02:08.
+Vendor ID,1, Order 549 has been accepted by Pizza Palace on 2023-12-11 17:03:19.
+Vendor ID,1, Order 549  is ready to collect by Pizza Palace on 2023-12-11 17:05:20.

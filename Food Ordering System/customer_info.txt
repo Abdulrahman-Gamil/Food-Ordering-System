@@ -1,0 +1,3 @@
+1,Alice,pass1,832.0
+2,Bob,pass2,1.01
+3,Charlie,pass3,129.48

@@ -1,0 +1,6 @@
+7937;Alice;Ready to collect;hh:1,Delivery Charge:1;2023-12-10;Delivered;1
+5833;Alice;Ready to collect;hh:4,Delivery Charge:1;2023-12-11;Delivered;1
+4955;Alice;Ready to collect;hh:1,Delivery Charge:1;2023-12-11;Delivered;1
+4955;Alice;Ready to collect;hh:1,Delivery Charge:1;2023-12-11;Delivered;1
+527;Alice;Ready to collect;hh:1,Delivery Charge:1;2023-12-11;Delivered;1
+549;Alice;Ready to collect;hh:1;2023-12-11;Delivered;1

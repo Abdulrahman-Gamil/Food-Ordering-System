@@ -1,0 +1,16 @@
+7937;5.0;Alice;Approved;2023-12-10
+5833;23.0;Alice;Approved;2023-12-11
+3008;5.0;Alice;Denied;2023-12-11
+3931;8.0;Alice;Denied;2023-12-11
+1607;53.0;Alice;Denied;2023-12-11
+3749;53.0;Alice;Approved;2023-12-11
+9703;53.0;Alice;Denied;2023-12-11
+5623;53.0;Alice;Approving;2023-12-11
+7156;53.0;Alice;Approving;2023-12-11
+7839;50.0;Alice;Approving;2023-12-11
+7723;53.0;Alice;Denied;2023-12-11
+4955;8.0;Alice;Approved;2023-12-11
+803;10.0;Alice;Denied;2023-12-11
+2134;8.0;Alice;Approved;2023-12-11
+527;8.0;Alice;Approved;2023-12-11
+549;8.0;Alice;Approved;2023-12-11
